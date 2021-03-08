@@ -146,7 +146,7 @@ export default Tab;
 - The custom hook ```useIsSignedIn``` determine whether the user is signed in
   - the MGT ```Providers``` keep internally the sign in state
 
-![Sign In](./signin.png)
+![Sign In](./signIn.png)
 
 ![Signed In](./signedIn.png)
 
